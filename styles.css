@@ -1,0 +1,232 @@
+  body {
+                text-align: center;
+            }
+
+        .searchbar{
+                width: 582px;
+                background: #fff;
+                display: flex;
+                border: 1px solid #dfe1e5;
+                box-shadow: none;
+                border-radius: 24px;
+                z-index: 3;
+                height: 44px;
+                margin: 0 auto
+            }
+
+        .searchbutton {
+            background-color: #f2f2f2;
+            border: 1px solid #f2f2f2;
+            border-radius: 4px;
+            color: #5F6368;
+            font-family: arial,sans-serif;
+            font-size: 14px;
+            margin: 11px 4px;
+            padding: 0 16px;
+            line-height: 27px;
+            height: 36px;
+            min-width: 54px;
+            text-align: center;
+            cursor: pointer;
+            user-select: none;
+        }
+        
+        .searchbutton:hover {
+            background-color: lightsteelblue;
+
+        }
+
+        @media (max-width: 599px){
+            body {
+                background-color: rgba(241, 176, 185, 0.774);
+            }
+        }
+
+         .uppersection {
+
+            display: inline-block;
+
+            letter-spacing: normal;
+
+            position: absolute;
+
+            top: 8px;
+
+            right: 16px;
+
+        }
+
+        div {
+            display: block;
+        }
+
+        .logo-subtext {
+            color: #4285f4;
+            font: 16px/16px roboto-regular, arial, sans-serif;
+            left: 98px;
+            position: relative;
+            top: 0px;
+            white-space: nowrap;
+            padding-bottom: 20px;
+        }
+
+         .hsuHs {
+             margin: auto
+         }
+
+         .wFncld {
+            color: #9aa0a6;
+             height: 20px;
+             width: 20px
+        }
+        .iblpc {
+            display: flex;
+            align-items: right;
+            padding-left: 520px;
+            margin-top: -36px;
+            margin-bottom: 10px;
+        }
+        
+        .wFncld {
+            color: #9aa0a6;
+            height: 20px;
+            width: 20px;
+        }
+
+        .z1asCe {
+            display: inline-block;
+            fill: currentColor;
+            height: 24px;
+            line-height: 24px;
+            position: relative;
+            width: 24px;
+        }
+
+        .adv_header{
+            white-space:nowrap;
+            background: #f1f1f1;
+            font: 13px/27px Arial,
+            sans-serif;
+            position: relative;
+            height: 60px;
+            width: 100%;
+            margin:0;
+            padding: 0;
+            border: 0;
+            text-align: right;
+        }
+
+        .small_logo {
+            background-position: 0 -35px;
+            height: 33px;
+            width: 92px;
+        }
+
+        .appbar {
+            color: #d93025;
+            font-size: 20px;
+            font: Arial, sans-serif;
+            margin: 25px 35px;
+            text-align: left;
+        }
+
+        .bottomline {
+            border-bottom: 1px solid #ebebeb;
+        }
+
+        .findsection{
+            font-size: 20px;
+            font: Arial,
+            sans-serif;
+            margin: 25px 35px;
+            text-align: left;
+        }
+
+     .searchbar{
+                width: 582px;
+                background: #fff;
+     }
+
+
+        .searchbutton {
+            background-color: #f2f2f2;
+            border: 1px solid #f2f2f2;
+            border-radius: 4px;
+            color: #5F6368;
+            font-family: arial,sans-serif;
+            font-size: 14px;
+            margin: 11px 4px;
+            padding: 0 16px;
+            line-height: 27px;
+            height: 36px;
+            min-width: 54px;
+            text-align: center;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .labels{
+                
+                display: inline-block;
+                min-width: 180px;
+                color: #222;
+                font-size: 16px;
+                line-height: 16px;
+                vertical-align: middle;
+    }
+    
+
+        .advsearchbar {
+                border-radius: 1px;
+                border: 1px solid #d9d9d9;
+                border-top: 1px solid #c0c0c0;
+                font-size: 13px;
+                height: 25px;
+                width: 582px;
+                padding: 1px 10px;
+                }
+                
+        .todo {
+                float: right;
+                display: inline-block;
+                width: 43%;
+                font-size: 13px;
+                font-weight: 700;
+                color: #777;
+                padding-right: 5px;
+                vertical-align: middle;
+        }
+
+        
+        .topspace {
+               margin: 15px 0px;
+           }
+
+        .space{
+            margin: 10px 0px;
+        }
+
+        .bluesearchbutton{
+         background-color: #4d90fe;
+         border: 1px solid #3079ed;
+         border-radius: 4px;
+         color: #fff;
+         font-family: arial,
+         sans-serif;
+         font-size: 14px;
+         margin: 11px 4px;
+         padding: 0 16px;
+         line-height: 27px;
+         height: 36px;
+         min-width: 54px;
+         text-align: center;
+         cursor: pointer;
+         user-select: none;
+        display: inline-block;
+        min-height: 41px;
+        vertical-align: middle;
+        }
+
+        .container{
+            text-align: center;
+        }
